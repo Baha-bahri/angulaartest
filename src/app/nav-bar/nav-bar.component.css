@@ -1,0 +1,51 @@
+/* Style for the navigation bar */
+.navbar {
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+  }
+  
+  /* Style for the navbar brand */
+  .navbar-brand {
+    font-size: 1.5rem;
+    color: #007bff;
+  }
+  
+  /* Style for the navbar toggler */
+  .navbar-toggler {
+    border: none;
+  }
+  
+  /* Style for the navbar links */
+  .navbar-nav {
+    margin-right: auto;
+  }
+  
+  .nav-item {
+    margin-right: 10px;
+  }
+  
+  .nav-link {
+    color: #007bff;
+  }
+  
+  /* Style for the search form */
+  .form-inline {
+    margin-left: auto;
+  }
+  
+  .form-control {
+    border-color: #007bff;
+  }
+  
+  .btn-outline-success {
+    color: #fff;
+    background-color: #28a745;
+    border-color: #28a745;
+  }
+  
+  .btn-outline-success:hover {
+    color: #fff;
+    background-color: #218838;
+    border-color: #1e7e34;
+  }
+  
